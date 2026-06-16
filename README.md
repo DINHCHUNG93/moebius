@@ -2,7 +2,7 @@
  * @Author: Xu Ziyang
  * @Date: 2026-06-16 17:04:16
  * @LastEditors: Xu Ziyang
- * @LastEditTime: 2026-06-16 17:16:28
+ * @LastEditTime: 2026-06-16 17:22:40
  * @Description:
 -->
 <div align="center">
@@ -14,7 +14,7 @@
 
 ***On-par-with/surpass 10B-level industrial SOTA generalist (FLUX.1-Fill-Dev) on 6 benchmarks across natural and portrait scenes & Only 2% (0.2B) parameters, and inference 15× faster***
 
-[Kangsheng Duan](https://github.com/AnduinD)<sup>1,</sup>\*, [Ziyang Xu](https://ziyangxu.top)<sup>1,</sup>\*<sup>,&dagger;</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu)<sup>1</sup>, Xiaohu Ruan<sup>2</sup>, [Xiaoxin Chen](https://scholar.google.com/citations?hl=zh-CN&user=SI_oBwsAAAAJ)<sup>2</sup>, [Xinggang Wang](https://xwcv.github.io)<sup>1,:email:</sup>
+[Kangsheng Duan](https://github.com/AnduinD)<sup>1,</sup>\*, [Ziyang Xu](https://ziyangxu.top)<sup>1,</sup>\*<sup>,&dagger;</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu)<sup>1</sup>, Xiaohu Ruan<sup>2</sup>, [Xiaoxin Chen](https://scholar.google.com/citations?hl=zh-CN&user=SI_oBwsAAAAJ)<sup>2</sup>, [Xinggang Wang](https://xwcv.github.io)<sup>1, :email:</sup>
 
 (*) Equal Contribution, (<sup>&dagger;</sup>) Project Leader, (<sup>:email:</sup>) Corresponding Author.
 
