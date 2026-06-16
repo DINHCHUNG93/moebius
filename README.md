@@ -2,7 +2,7 @@
  * @Author: Xu Ziyang
  * @Date: 2026-06-16 17:04:16
  * @LastEditors: Xu Ziyang
- * @LastEditTime: 2026-06-16 17:15:15
+ * @LastEditTime: 2026-06-16 17:16:28
  * @Description:
 -->
 <div align="center">
@@ -47,7 +47,7 @@
 > 💡 **The core insight of Moebius can be summarized in a single equation:**
 >
 > $$\begin{aligned}
-> \text{Synergy} \times (\text{Architecture} + \text{Distillation}) = \text{} & \text{Shattering the "Impossible Triangle" of} \\
+> \text{Synergy} \times (\text{Architecture} + \text{Distillation}) = & \text{Shattering the "Impossible Triangle" of} \\
 > & \text{Low Parameters, Fast Inference, and High Quality}
 > \end{aligned}$$
 >
