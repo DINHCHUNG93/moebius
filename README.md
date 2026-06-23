@@ -1,3 +1,26 @@
+
+
+Mô hình AI trending chuyên hoàn thiện, khôi phục hoặc tô lại những vùng bị thiếu, bị che khuất, bị hỏng trong ảnh một cách tự nhiên và hợp lý nhất có thể chỉ 200 triệu tham số nhưng chất lượng tương đương model 10B+, tốc độ sinh ảnh nhanh hơn 15 Lần
+
+Trong khi phần lớn mô hình AI hình ảnh đang chạy đua lên hàng chục tỷ tham số, Moebius lại đi theo hướng hoàn toàn khác: chỉ 226 triệu tham số nhưng vẫn đạt chất lượng cạnh tranh với các mô hình inpainting hàng đầu như FLUX.1-Fill-Dev 11.9B hay SD3.5 Large-Inpainting.
+
+Điều đáng chú ý nhất là tốc độ. Moebius có thể suy luận nhanh hơn hơn 15 lần so với nhiều mô hình inpainting cỡ lớn, mở ra khả năng chỉnh sửa ảnh gần như thời gian thực trên phần cứng phổ thông.
+
+Một số điểm nổi bật:
+
+• Chỉ 0.22B tham số nhưng chất lượng tiệm cận hoặc vượt nhiều model 10B+.
+• Tối ưu cho inpainting và object removal.
+• Xử lý tốt khuôn mặt, texture phức tạp và tính nhất quán ngữ nghĩa.
+• Tốc độ inference cực nhanh, phù hợp laptop, PC cá nhân và thiết bị edge.
+• Kiến trúc mới thay thế attention truyền thống bằng cơ chế tuyến tính hiệu quả hơn.
+• Sử dụng kỹ thuật distillation đa cấp độ để nén sức mạnh của mô hình lớn vào mô hình siêu nhỏ.
+
+Moebius là minh chứng rõ ràng rằng tương lai của AI không chỉ nằm ở việc tăng kích thước mô hình, mà còn ở khả năng thiết kế kiến trúc thông minh và tối ưu hiệu suất.
+
+Nếu xu hướng này tiếp tục phát triển, chúng ta có thể sớm thấy những công cụ chỉnh sửa ảnh chất lượng cao chạy trực tiếp trên điện thoại hoặc máy tính cá nhân mà không cần GPU khổng lồ.
+
+
+
 <div align="center">
     <img src="./assets/logo_dynamic_woWaterMark.gif" width="100%"></img>
 </div>
